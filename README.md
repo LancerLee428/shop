@@ -1,4 +1,4 @@
-# shopweb
+# ewshop
 
 ## Project setup
 ```
